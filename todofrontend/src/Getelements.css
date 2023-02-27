@@ -1,0 +1,8 @@
+table{
+    width: 100%;
+    align-items: center;
+}
+td, th {  
+    border: 1px solid #272525;
+    width: 25%;
+  }
